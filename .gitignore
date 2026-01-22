@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# UV
+uv.lock
+
+# Notebook
+ipynb_checkpoints/
+*/.ipynb_checkpoints/*
